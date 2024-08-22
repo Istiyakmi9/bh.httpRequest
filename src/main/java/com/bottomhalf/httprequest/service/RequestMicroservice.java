@@ -1,9 +1,9 @@
-package in.bottomhalf.httprequest.service;
+package com.bottomhalf.httprequest.service;
 
+import com.bottomhalf.httprequest.model.Files;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import in.bottomhalf.httprequest.contract.IHttpServiceRequest;
-import in.bottomhalf.httprequest.model.Files;
+import com.bottomhalf.httprequest.contract.IHttpServiceRequest;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.Resource;
 import org.springframework.http.HttpEntity;

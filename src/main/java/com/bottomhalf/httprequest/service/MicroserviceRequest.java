@@ -1,4 +1,4 @@
-package in.bottomhalf.httprequest.service;
+package com.bottomhalf.httprequest.service;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

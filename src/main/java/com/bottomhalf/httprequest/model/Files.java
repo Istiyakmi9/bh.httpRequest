@@ -1,4 +1,4 @@
-package in.bottomhalf.httprequest.model;
+package com.bottomhalf.httprequest.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.AllArgsConstructor;
