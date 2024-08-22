@@ -1,6 +1,6 @@
-package in.bottomhalf.httpRequest.contract;
+package in.bottomhalf.httprequest.contract;
 
-import in.bottomhalf.httpRequest.model.ApiResponse;
+import in.bottomhalf.httprequest.model.ApiResponse;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.GetMapping;

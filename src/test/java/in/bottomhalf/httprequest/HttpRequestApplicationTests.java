@@ -1,4 +1,4 @@
-package in.bottomhalf.httpRequest;
+package in.bottomhalf.httprequest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
