@@ -26,4 +26,4 @@ jobs:
     - name: Configure GitHub Packages repository in Maven settings
       run: mvn --batch-mode deploy
       env:
-        GITHUB_TOKEN: ${{ secrets.JAVA_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.REPO_TOKEN }}
