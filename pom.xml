@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>in.bottomhalf</groupId>
-    <artifactId>httpRequest</artifactId>
+    <artifactId>httprequest</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>httpRequest</name>
-    <description>Make http request from java to any microservice using feing client</description>
+    <description>Make http request from java to any microservice using feign client</description>
     <url/>
     <licenses>
         <license/>
